@@ -88,3 +88,9 @@ python evaluate.py --model RHIA-EOP --processed_data_dir ./_processed_data/RHIA-
 | < 200  | 10 | 15 | 20 | 
 | :----: | :---: | :---: | :--: |
 | RHIA-EOP | 72.7 | 86.4 | 95.5 |
+
+## Acknowledgements
+
+We thank a lot for the following repos:
+* [thunlp/HNRE](https://github.com/thunlp/HNRE)
+* [tmliang/SeG](https://github.com/tmliang/SeG)
